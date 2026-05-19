@@ -1,0 +1,7 @@
+cffi==2.0.0
+cryptography==48.0.0
+greenlet==3.5.0
+playwright==1.60.0
+pycparser==3.0
+pyee==13.0.1
+typing_extensions==4.15.0

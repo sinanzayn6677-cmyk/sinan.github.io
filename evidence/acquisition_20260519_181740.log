@@ -1,0 +1,14 @@
+==================================================
+         DIGITAL FORENSIC ACQUISITION LOG         
+==================================================
+Target URL:            https://chatgpt.com/
+Acquisition Timestamp: 20260519_181740
+HTTP Status Code:      200
+Browser Engine:        Playwright (Headless Chromium)
+--------------------------------------------------
+EVIDENCE FILES & INTEGRITY SIGNATURES:
+HTML Source File:      rendered_source_20260519_181740.html
+HTML SHA-256 Hash:     0e18efe91e3f5d6d30b367eefc2b81c18226f0c9cd933dd6a3ae2a25ea747abd
+Screenshot File:       screenshot_20260519_181740.png
+Screenshot SHA-256:    31aaf0ecf30d45c798d39749237af2b6c981e98c7aa01ca52e7b5325ced158b2
+==================================================
