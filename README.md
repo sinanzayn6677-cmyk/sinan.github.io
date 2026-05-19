@@ -18,7 +18,7 @@ A forensically sound web acquisition and automation tool built in Python for Lin
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/sinanzayn6677-cmyk/sinan.github.io.git](https://github.com/sinanzayn6677-cmyk/sinan.github.io.git)
+sudo git clone https://github.com/sinanzayn6677-cmyk/sinan.github.io.git
 cd sinan.github.io
 2. Configure Environment & Dependencies
 It is highly recommended to run this tool inside an isolated Python virtual environment to prevent package conflicts:
